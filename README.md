@@ -10,7 +10,7 @@ The files of most interest are
 When updating upstream, be sure to keep the dependencies noted in `build.gradle.kts` in sync with upstream.
 It's also a good idea to use the same version of the Gradle wrapper as upstream.
 
-## Tasks
+## Tasks        
 
 ```
 Paperweight tasks
